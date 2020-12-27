@@ -1,0 +1,151 @@
+div{
+  background-color: #EAF6F6;
+}
+h1{
+  font-size: 500%;
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+
+}
+h3{
+    color: #11999E;
+}
+body{
+  text-align: center;
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted grey;
+  border-style: none none dotted none;
+  border-bottom-width: thick;
+  width: 6%;
+  margin: 100px auto;
+}
+a{
+    font-family: 'Montserrat', cursive;
+    margin: 20px 20px;
+    text-decoration: none;
+
+}
+a:hover{
+color: #EAF6F6
+
+
+}
+.top-container{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+}
+.middle-container{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+.footer-link {
+  color: #11999E;
+}
+
+.head2{
+  font-weight: normal;
+}
+.skill-row{
+  margin: 150px auto 150px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.coding{
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.soccer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.paragraph{
+  clear: right;
+}
+
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 30px;
+   -moz-border-radius: 30px;
+   border-radius: 30px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: 'Merriweather', serif;
+   width: 200px;
+   font-size: 22px;
+   font-weight: 100;
+   padding: 0;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 6px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover{
+   border: solid #337FED 1px;
+   background: #30ECBE;
+   background-image: -webkit-linear-gradient(top, #30ECBE, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30ECBE, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30ECBE, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30ECBE, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30ECBE, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.intro{
+  margin: auto;
+  width: 30%;
+}
+.contactM{
+  width: 40%;
+  margin: 50px auto;
+}
